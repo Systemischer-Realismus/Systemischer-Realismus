@@ -83,3 +83,6 @@ ul, ol {
   margin-bottom: 1.6em;
   line-height: 1.6;
 }
+.site-header {
+  display: none;
+}
