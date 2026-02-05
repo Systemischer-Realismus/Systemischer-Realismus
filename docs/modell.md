@@ -91,3 +91,32 @@ Wenn du möchtest, erweitern wir diesen Abschnitt jetzt um:
 - Transformationslogiken
 - Warum moderne Systeme besonders verletzlich sind
 oder wir gehen direkt weiter zum nächsten Kapitel deines Modells.
+Dann setzen wir im Modell.md genau dort fort, wo wir stehen: nach der Erklärung von Stabilität und Instabilität.
+Der nächste logische Schritt ist, die systemischen Krisen zu beschreiben – also die Momente, in denen ein System seine Stabilität verliert und in eine neue Phase eintritt.
+Ich formuliere dir diesen Abschnitt so, dass er direkt in dein Modell passt und die bisherige Struktur weiterführt.
+
+Systemische Krisen
+Systemische Krisen entstehen, wenn ein System seine grundlegenden Funktionen nicht mehr erfüllen kann. Sie sind keine zufälligen Ereignisse, sondern Ausdruck struktureller Überlastung. Eine Krise zeigt, dass die Reproduktion gestört ist, Energieflüsse nicht mehr ausreichen oder Rückkopplungen außer Kontrolle geraten.
+Merkmale systemischer Krisen
+- Funktionsverlust
+Zentrale Prozesse – Versorgung, Kommunikation, Legitimation, Sicherheit – brechen teilweise oder vollständig zusammen.
+- Beschleunigung
+Veränderungen, die zuvor langsam verliefen, werden plötzlich schnell und unvorhersehbar.
+- Entkopplung
+Die Elemente des Systems verlieren ihre Koordination; Institutionen handeln widersprüchlich oder blockieren sich gegenseitig.
+- Vertrauensverlust
+Die kulturelle Grundlage des Systems erodiert, bevor die Strukturen selbst kollabieren.
+- Unumkehrbarkeit
+Eine systemische Krise führt nicht zurück zum alten Zustand. Sie öffnet den Weg zu Transformation – oder Zerfall.
+Warum moderne Systeme besonders krisenanfällig sind
+- Globale Vernetzung
+Störungen verbreiten sich schneller und weiter als in früheren Epochen.
+- Komplexität
+Je komplexer ein System, desto mehr kann schiefgehen – und desto schwieriger ist Steuerung.
+- Beschleunigung
+Technologische und ökonomische Dynamiken überholen die Anpassungsfähigkeit politischer und sozialer Strukturen.
+- Grenzbelastung
+Ökologische, ökonomische und soziale Grenzen werden gleichzeitig erreicht.
+- Kulturelle Fragmentierung
+Gemeinsame Narrative, die Stabilität erzeugen, lösen sich auf.
+Systemische Krisen sind daher nicht Ausnahmen, sondern typische Phasen im Lebenszyklus moderner Systeme.
