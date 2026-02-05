@@ -759,5 +759,3 @@ Moderne Gesellschaften stehen an einem Punkt, an dem alte Reproduktionsmechanism
 - kollektive Selbstkorrektur
 - kollektive Innovation
 Das ist die Form von Intelligenz, die komplexe Systeme brauchen, um nicht zu zerfallen, sondern sich neu zu ordnen.
-
-Wenn du möchtest, gehen wir jetzt weiter zu dem Punkt, der das Modell abrundet: Wie Systeme diese Zukunftsfähigkeit konkret aufbauen – Schritt für Schritt, als Prozess der Emergenz.
