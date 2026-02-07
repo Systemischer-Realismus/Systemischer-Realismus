@@ -1,10 +1,23 @@
-# Systemische Realismus‑Modellierung
+Die dynamische Reproduktionstheorie der Systemrealität
+Diese Startseite führt in die Struktur der Theorie ein. Die Kapitel sind entlang des reproduktiven Zyklus geordnet: Orientierung, historische Einbettung, Modellbildung, normative Ableitung und ergänzende Materialien. So entsteht ein klarer Weg durch die Logik der systemischen Reproduktion.
 
-Willkommen im Dokumentationsbereich des Projekts.  
-Diese Seite dient als Einstiegspunkt für die GitHub‑Pages‑Struktur und verweist auf die zentralen Inhalte.
+Orientierung und Einstieg
+• 	Vorwort — persönliche und konzeptionelle Rahmung, die den Ursprung der Fragestellung sichtbar macht
 
-## Hauptdokument
-- [Modell](Modell.md)
+• 	Einleitung — thematische Hinführung, Problemstellung und Motivation der Theorie
 
-## Weitere Inhalte
-Alle ergänzenden Kapitel, Analysen und Dateien befinden sich ebenfalls in diesem Ordner.
+
+Historische und systemische Einbettung
+• 	Historie — Entwicklungslinien, gesellschaftliche Kontexte und theoretische Vorläufer, aus denen die Theorie hervorgegangen ist
+
+
+Zentrales Modell
+• 	Modell — formale Darstellung der dynamischen Reproduktion der Systemrealität: Energieflüsse, Kopplungen, Stabilisierung, Resonanz und zyklische Erneuerung
+
+
+Normative und programmatische Ableitung
+• 	Manifest — normative Leitgedanken, die aus der Theorie folgen: Verantwortung, Gestaltung, Resonanz, Stabilisierung und Erneuerung
+
+
+Ergänzende Materialien
+• 	Platzhalter — technische oder strukturelle Elemente für spätere Erweiterungen
