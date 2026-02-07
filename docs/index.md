@@ -25,13 +25,3 @@ Normative und programmatische Ableitung
 • 	Manifest — normative Leitgedanken, die aus der Theorie folgen: Verantwortung, Gestaltung, Resonanz, Stabilisierung und Erneuerung
 Ergänzende Materialien
 • 	Platzhalter — technische oder strukturelle Elemente für spätere Erweiterungen
-
-Damit das korrekt angezeigt wird, brauchst du zwei technische Schritte in VS Code:
-1. Kodierung prüfen
-Unten rechts muss stehen: UTF‑8
-Falls nicht: „Save with Encoding…“ → UTF‑8.
-2. Zeilenumbrüche prüfen
-Unten rechts muss stehen: LF
-Falls nicht: „Convert End of Line Sequence…“ → LF.
-
-Wenn du möchtest, kannst du mir kurz sagen, wie die ersten beiden Zeilen in VS Code aussehen – dann sehe ich sofort, ob die Datei sauber gespeichert ist.
